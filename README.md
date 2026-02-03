@@ -6,7 +6,5 @@
 - 😀 Pronomes:ele/dele
 -->
 
-![GitHub stars](https://img.shields.io/github/stars/pietro2020?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/pietro2020?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/pietro2020?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/pietro2020?style=for-the-badge)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pietro2020&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietro2020&layout=compact&theme=radical)
